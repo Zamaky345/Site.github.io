@@ -1,0 +1,122 @@
+#Barrainicial{
+    border:3px solid #0B090C; 
+    width: 1362px; 
+    height: 100px;
+    background-color: #0B090C;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+}
+body{
+    font-family:'Roboto',sans-serif;
+    color: #09B209;
+    background-color: #313233;
+}
+.CanRun{
+    margin-left: 10px;
+}
+.Home{
+    border:3px solid #292929; 
+    width: 100px; 
+    height: 40px;
+    background-color: #292929;
+    border-radius: 10px;
+    margin-left: 670px;
+    margin-top: -65px;
+}
+.textohome{
+    margin-left: 18px;
+    margin-top: 10px
+   }
+.Sobre{
+    border:3px solid #424040; 
+    width: 100px; 
+    height: 40px;
+    background-color:  #424040;
+    border-radius: 10px;
+    margin-left: 790px;
+    margin-top: -46px;
+}
+.textosobre{
+    margin-left: 18px;
+    margin-top: 10px
+   }
+.Suporte{
+    border:3px solid #292929; 
+    width: 100px; 
+    height: 40px;
+    background-color: #292929;
+    border-radius: 10px;
+    margin-left: 910px;
+    margin-top: -46px;
+}
+.textosuporte{
+    margin-left: 18px;
+    margin-top: 10px
+   }
+.Download{
+    border:3px solid #292929; 
+    width: 120px; 
+    height: 40px;
+    background-color: #292929;
+    border-radius: 10px;
+    margin-left: 1030px;
+    margin-top: -46px;
+}
+.textodownload{
+    margin-left: 18px;
+    margin-top: 10px
+   }
+.Login{
+    border:3px solid #292929; 
+    width: 100px; 
+    height: 40px;
+    background-color: #292929;
+    border-radius: 10px;
+    margin-left: 1170px;
+    margin-top: -46px;
+}
+.textologin{
+    margin-left: 18px;
+    margin-top: 10px
+   }
+.barrinhaverde{
+    border:3px solid #09B209; 
+    width: 1369px; 
+    height: 1px;
+    background-color: #09B209;
+    margin-left: -10px;
+    margin-top: 8px;
+}
+.form-contact {
+    width: 100%;
+}
+.align{
+  text-align: center 
+}
+.Color{
+    color: white;
+}
+.Video{
+    border:3px solid  #424040; 
+    width: 700px; 
+    height: 380px;
+    background-color:  #424040;
+    margin-left: 340px;
+    margin-top: 30px;
+}
+.center{
+    margin-top: 90px;
+    margin-left: 240px;
+    width: 200px;
+    height: 200px;
+}
+.a{
+    text-decoration: none;
+    color: #09B209;
+    width: 100px;
+    height: 40px;
+}
